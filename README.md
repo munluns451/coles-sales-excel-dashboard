@@ -26,3 +26,4 @@ Interactive Excel dashboard analysing 625 Coles supermarket stores across Austra
 
 ### Author
 Munna Naharki | Google Data Analytics Certificate | MBA Analytics (VU Sydney 2026)
+![Dashboard Preview](dashboard-preview.png)
